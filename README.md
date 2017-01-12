@@ -18,9 +18,9 @@ Learn everything you need to about the subject of this `Udemy` project.
 Section: 1
 0 / 6
 Introduction to Big Data
-[ ] 1. Introduction to the Course 4:55
-[ ] 2. Why Hadoop, Big Data and Map Reduce Part - A 11:55
-[ ] 3. Why Hadoop, Big Data and Map Reduce Part - B 11:56
+[x] 1. Introduction to the Course 4:55
+[x] 2. Why Hadoop, Big Data and Map Reduce Part - A 11:55
+[x] 3. Why Hadoop, Big Data and Map Reduce Part - B 11:56
 [ ] 4. Why Hadoop, Big Data and Map Reduce Part - C 12:26
 [ ] 5. Architecture of Clusters 20:43
 [ ] 6. Virtual Machine (VM), Provisioning a VM with vagrant and puppet 17:39
