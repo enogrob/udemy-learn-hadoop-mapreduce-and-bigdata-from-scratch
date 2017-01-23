@@ -22,7 +22,7 @@ Introduction to Big Data
 [x] 2. Why Hadoop, Big Data and Map Reduce Part - A 11:55
 [x] 3. Why Hadoop, Big Data and Map Reduce Part - B 11:56
 [x] 4. Why Hadoop, Big Data and Map Reduce Part - C 12:26
-[ ] 5. Architecture of Clusters 20:43
+[x] 5. Architecture of Clusters 20:43
 [ ] 6. Virtual Machine (VM), Provisioning a VM with vagrant and puppet 17:39
 
 Section: 2
